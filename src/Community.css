@@ -1,0 +1,13 @@
+.txt
+{
+    font-size: 20px;
+    font-weight: bold;
+    /* padding: 50px; */
+    justify-content: space-between;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.bod{
+    background-color: rgb(38, 86, 92);
+    background: cover;
+}
